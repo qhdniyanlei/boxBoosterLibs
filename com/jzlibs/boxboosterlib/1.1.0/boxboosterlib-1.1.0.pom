@@ -19,5 +19,11 @@
       <version>3.0.0</version>
       <scope>compile</scope>
     </dependency>
+    <dependency>
+      <groupId>com.yanzhenjie</groupId>
+      <artifactId>permission</artifactId>
+      <version>1.0.6</version>
+      <scope>compile</scope>
+    </dependency>
   </dependencies>
 </project>
